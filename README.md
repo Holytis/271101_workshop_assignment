@@ -1,1 +1,9 @@
-# 271101_workshop_assignment
+## 271101_workshop_assignment 
+สร้าง array fing 
+สร้าง array arr เพื่อรับค่า cx และ cy ของ id เป็น array และนำแต่ละตำแหน่งมาเทียบกันตามโค้ดที่ได้เขียนไว้
+ใช้ fing.append เพื่อรับค่าแต่ละเงื่อนไขเข้าไปในใน array fing
+ให้ Nfing เป็นจำนวนสมาชิกของ array fing
+และแสดงค่า Nfing และ fing ขึ้นหน้าจอ
+
+## Condition
+ใช้ได้แค่กับมือซ้ายเท่านั้น , ห้ามกลับมือ และมือซ้ายต้องตั้งตรง
